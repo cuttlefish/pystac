@@ -4,6 +4,18 @@
 
 ### Added
 
+### Removed
+
+### Changed
+
+### Fixed
+
+### Deprecated
+
+## [v1.2.0]
+
+### Added
+
 - Added Table-extension ([#646](https://github.com/stac-utils/pystac/pull/646))
 
 ### Removed
@@ -24,8 +36,6 @@
 - `generate_subcatalogs` can include multiple template values in a single subfolder layer 
   ([#595](https://github.com/stac-utils/pystac/pull/595))
 - Avoid implicit re-exports ([#591](https://github.com/stac-utils/pystac/pull/591))
-
-### Deprecated
 
 ## [v1.1.0]
 
@@ -509,7 +519,8 @@ use `Band.create`
 
 Initial release.
 
-[Unreleased]: <https://github.com/stac-utils/pystac/compare/v1.1.0..main>
+[Unreleased]: <https://github.com/stac-utils/pystac/compare/v1.2.0..main>
+[v1.2.0]: <https://github.com/stac-utils/pystac/compare/v1.1.0..v1.2.0>
 [v1.1.0]: <https://github.com/stac-utils/pystac/compare/v1.0.1..v1.1.0>
 [v1.0.1]: <https://github.com/stac-utils/pystac/compare/v1.0.0..v1.0.1>
 [v1.0.0]: <https://github.com/stac-utils/pystac/compare/v1.0.0-rc.3..v1.0.0>
